@@ -1,0 +1,38 @@
+{
+    "all_tests" : [
+    {   
+        "test_id": 0,
+        "test_topic": "Demo",
+        "test_difficulty": "Elementary",
+        "test_questions": [
+            {
+                "test_question_type": "SINGLE",
+                "question": "The winter is ...",
+                "right_answer": "coming",
+                "hints" : [
+                    "Brace yourself!",
+                    "q1 hint2"
+                ]
+            },
+            {
+                "test_question_type": "SINGLE",
+                "question": "What is №1 Trolling Meme in the world?",
+                "right_answer": "rickroll",
+                "hints" : [
+                    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "q2 hint2"
+                ]
+            },
+            {
+                "test_question_type": "MULTIPLE",
+                "question": "After passing this test - you'll get a cake!",
+                "multiple_answers": [["Cool"], ["I love cakes"], ["The cake is a lie"]],
+                "right_answer": "the cake is a lie",
+                "hints" : [
+                    "there is no reward, you silly",
+                    "q3 hint2"
+                ]
+            }
+        ]
+    }]
+}
